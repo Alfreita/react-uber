@@ -12,7 +12,7 @@ const App = () =>(
         latitudeDelta: 0.015,
         longitudeDelta: 0.0121,
     }}  
-        showUserLocation
+        showsUserLocation
         loadingEnabled
     />
 </View>
